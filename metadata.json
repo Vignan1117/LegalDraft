@@ -1,0 +1,5 @@
+{
+  "name": "LegalDraftAI",
+  "description": "An AI-powered assistant for drafting legally structured documents following Indian conventions, with clause explanation and risk detection.",
+  "requestFramePermissions": []
+}
